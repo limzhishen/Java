@@ -1,0 +1,11 @@
+SupplierID,SupplierName,Contact,Location
+Sup001,SustainSupply,016-299 4484,Kuala Lumpur
+Sup002,Global Super Supply,017-399 4488,Johor
+Sup003,All You Need,017-288 3386,Kuala Lumpur
+Sup004,Sunrise Stock,012-338 6687,Kuala Lumpur
+Sup005,The Supplier Yard,012-133 3388,Johor
+Sup006,Munchy's,016-213 4431,Johor
+Sup007,Routine Goods,013-211 4490,Penang
+Sup008,Best Wholesales,017-755 8888,Selangor
+Sup009,Sunshine Distributor,017-766 3329,Penang
+Sup010,Fresh Start Bulk,016-299 4493,Melaka

@@ -1,0 +1,11 @@
+ItemID,ItemName,Quantity,SalesPrice,Category,ROL(settings)
+Item001,Milo,75,34.99,Chocolate Based,30
+Item002,Jasmine Rice,0,49.99,Rice,30
+Item003,Nescafe Classic,84,16.99,Instant Coffee,30
+Item004,Dutch Lady Milk,20,22.99,Growing Up Milk,20
+Item005,Maggi Noodle Curry,0,4.49,Packet Noodles,30
+Item006,Dairy Milk Chocolate,0,9.99,Chocolates,30
+Item007,100 Plus Isotonic,0,3.19,Sports Drinks,30
+Item008,Sprite,0,2.99,Sports Drinks,30
+Item009,Farm Fresh Milk 2L,0,12.99,Fresh Milk,20
+Item010,Koko Krunch Economy Pack,0,15.99,Grocery,30
